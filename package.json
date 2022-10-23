@@ -1,0 +1,31 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "REST API using Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuroXI/rest-api.git"
+  },
+  "keywords": [
+    "express",
+    "rest",
+    "api",
+    "template"
+  ],
+  "author": "Victor Gonzales (KuroXI)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KuroXI/rest-api/issues"
+  },
+  "homepage": "https://github.com/KuroXI/rest-api#readme",
+  "dependencies": {
+    "apicache": "^1.6.3",
+    "express": "^4.18.2",
+    "express-slow-down": "^1.5.0",
+    "helmet": "^6.0.0"
+  }
+}
